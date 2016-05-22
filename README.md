@@ -1,6 +1,6 @@
-# lombok-whiskey-party
+# lombok-whiskey-demo
 
-Small project demonstrating [project Lombok](https://projectlombok.org/) features including:
+Small project demonstrating [project Lombok](https://projectlombok.org/) features, including:
 
 * `@Getter`
 * `@Setter`
@@ -15,4 +15,3 @@ Small project demonstrating [project Lombok](https://projectlombok.org/) feature
 * `@Log*`
 * `val`
 * configuration system
-
