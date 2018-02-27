@@ -23,7 +23,7 @@
             <plugin>
                 <groupId>org.projectlombok</groupId>
                 <artifactId>lombok-maven-plugin</artifactId>
-                <version>1.16.8.0</version>
+                <version>1.16.20.0</version>
                 <configuration>
                     <encoding>UTF-8</encoding>
                 </configuration>
@@ -65,7 +65,7 @@
         <dependency>
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
-            <version>1.16.8</version>
+            <version>1.16.20</version>
         </dependency>
         <dependency>
             <groupId>org.apache.logging.log4j</groupId>
